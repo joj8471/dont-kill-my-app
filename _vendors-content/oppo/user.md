@@ -1,4 +1,4 @@
----
+don't kill my app
 manufacturer: 
     - oppo
 
